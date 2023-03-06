@@ -1,1 +1,1 @@
-# aws.infrastructure
+# AWSコストをSlackに通知するLambda関数の作成手順
